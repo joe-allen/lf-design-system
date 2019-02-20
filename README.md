@@ -75,17 +75,22 @@
 -
 
 ### QUESTIONS
-[ ] - What catchy name should we give this system / product? (e.g. Zambini, trackasaurus, Polaris, CarbonDesign, etc.)
-[ ] - Any update on the report / resreach Megan and her team is doing on LF's client base?
-[ ] - Let's think about how we're going to do tests and get the data for pre design system implementation to post implementation
-[ ] - How to create this product so that it can be a reference for:
+- [ ] - What catchy name should we give this system / product? (e.g. Zambini, trackasaurus, Polaris, CarbonDesign, etc.)
+- [ ] - Any update on the report / resreach Megan and her team is doing on LF's client base?
+- [ ] - Let's think about how we're going to do tests and get the data for pre design system implementation to post implementation
+- [ ] - How to create this product so that it can be a reference for:
 
-- COPYWRITERS: to know how to talk 'design' / steps to take to get their vision conveyed to designers/marketers more easily. A repository of pre-approved legal stats/quotes to use.
-- MARKETERS: to ask project managers what they're needing
-- PUBLISHERS: to see what's in the works and data from existing promos / pCodes
-- DEVELOPERS: to easily access dependents, common choice names/desc, wh/ browsers versions we support
-- PROJECT managers: to point people to correct versions of things, have some sort of 'source of truth' document/tool
-- EVERYONE: so they can grab logos, pub phone numbers / emails, pub colors, social media / commonly used images, data on promos, passwords for things we all share
+COPYWRITERS: to know how to talk 'design' / steps to take to get their vision conveyed to designers/marketers more easily. A repository of pre-approved legal stats/quotes to use.
+
+MARKETERS: to ask project managers what they're needing
+
+PUBLISHERS: to see what's in the works and data from existing promos / pCodes
+
+DEVELOPERS: to easily access dependents, common choice names/desc, wh/ browsers versions we support
+
+PROJECT managers: to point people to correct versions of things, have some sort of 'source of truth' document/tool
+
+EVERYONE: so they can grab logos, pub phone numbers / emails, pub colors, social media / commonly used images, data on promos, passwords for things we all share
 
 ### TODO
 - [x] Remove dash around `.aside`
