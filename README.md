@@ -2,17 +2,15 @@
 
 > A Design System is the single source of truth which groups all the elements that will allow the teams to design, realize and develop a product
 
----
 
 > A Design System is a product which is going to help the actors of a project build other products
 
----
 
 > a Design System is a set of deliverables
 - Tools for designers & developers, patterns, components, guidelines…
 - But also abstract elements such as brand values, shared ways of working, mindset, shared beliefs (which are often the most difficult thing to achieve)…
 
-^ Quoted from [here](https://uxdesign.cc/everything-you-need-to-know-about-design-systems-54b109851969)
+^ Pulled from [here](https://uxdesign.cc/everything-you-need-to-know-about-design-systems-54b109851969)
 
 ## What Is It?
 
@@ -20,6 +18,7 @@
 2. Styleguide (think: Colors, fonts, illustrations)
 3. Utliity / Pattern Library (think components: Buttons, pop ups, inputs)
 4. Coding standards
+5. ... Plus more!
 
 ## Why Do We Need It?
 - Help centralize material and maintain standards among a large team
@@ -34,18 +33,22 @@
 
 ## Design System Examples:
 
-(IBM)       https://www.carbondesignsystem.com/
+(IBM)       [https://www.carbondesignsystem.com/]
+            
             - Really great docs
 
 
-(Shopify)   https://polaris.shopify.com/
+(Shopify)   [https://polaris.shopify.com/]
+            
             - This one has a LOT of content
             - Side note: It would actually be kind of cool to do a #10 like the "paper" on right side / main bullet (h3) on the left side
 
-(Figma)     https://www.designsystems.com/
+(Figma)     [https://www.designsystems.com/]
+            
             - I like the show/hide fontsize/color and the layout
 
-(LF)        https://sites.agorafinancial.com/promos_2/LF/production/pubs/general/common/css/guide/
+(LF)        [https://sites.agorafinancial.com/promos_2/LF/production/pubs/general/common/css/guide/]
+            
             - Version 0.01. Just to demo
 
 ---
@@ -73,12 +76,12 @@
 - What catchy name should we give this system / product? (e.g. Zambini, trackasaurus, Polaris, CarbonDesign, etc.)
 
 ### TODO
-[x] - Remove dash around `.aside`
+[x] Remove dash around `.aside`
 
 ### Wishlist:
-- Add `.hide-sm-up` `.hidebr`
-- hr styles (h-(1-4) (for height on HRs))
-- Checkboxes styles
-- Radios styles
-- Consider '.text-tiny, .text-sm, .text-md, .text-lg, .text-xl...'
-- Create a mockup of promo / OF with comments about what we (w/in LF) call each section (eyebrow, hero, form, subhead, Y/NO call to actions)
+[ ] - Add `.hide-sm-up` `.hidebr`
+[ ] - hr styles (h-(1-4) (for height on HRs))
+[ ] - Checkboxes styles
+[ ] - Radios styles
+[ ] - Consider '.text-tiny, .text-sm, .text-md, .text-lg, .text-xl...'
+[ ] - Create a mockup of promo / OF with comments about what we (w/in LF) call each section (eyebrow, hero, form, subhead, Y/NO call to actions)
