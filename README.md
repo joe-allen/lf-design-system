@@ -34,21 +34,21 @@
 ## Design System Examples:
 
 (IBM)       [https://www.carbondesignsystem.com/]
-            
+
             - Really great docs
 
 
 (Shopify)   [https://polaris.shopify.com/]
-            
+
             - This one has a LOT of content
             - Side note: It would actually be kind of cool to do a #10 like the "paper" on right side / main bullet (h3) on the left side
 
 (Figma)     [https://www.designsystems.com/]
-            
+
             - I like the show/hide fontsize/color and the layout
 
 (LF)        [https://sites.agorafinancial.com/promos_2/LF/production/pubs/general/common/css/guide/]
-            
+
             - Version 0.01. Just to demo
 
 ---
@@ -76,12 +76,12 @@
 - What catchy name should we give this system / product? (e.g. Zambini, trackasaurus, Polaris, CarbonDesign, etc.)
 
 ### TODO
-[x] Remove dash around `.aside`
+- [x] Remove dash around `.aside`
 
 ### Wishlist:
-[ ] - Add `.hide-sm-up` `.hidebr`
-[ ] - hr styles (h-(1-4) (for height on HRs))
-[ ] - Checkboxes styles
-[ ] - Radios styles
-[ ] - Consider '.text-tiny, .text-sm, .text-md, .text-lg, .text-xl...'
-[ ] - Create a mockup of promo / OF with comments about what we (w/in LF) call each section (eyebrow, hero, form, subhead, Y/NO call to actions)
+- [ ] Add `.hide-sm-up` `.hidebr`
+- [ ] hr styles (h-(1-4) (for height on HRs))
+- [ ] Checkboxes styles
+- [ ] Radios styles
+- [ ] Consider '.text-tiny, .text-sm, .text-md, .text-lg, .text-xl...'
+- [ ] Create a mockup of promo / OF with comments about what we (w/in LF) call each section (eyebrow, hero, form, subhead, Y/NO call to actions)
