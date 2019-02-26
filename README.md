@@ -25,13 +25,15 @@
 - Consistency saves times, money and instils trust in our users
 
 ## How Do We Implement It?
-- Figure out who will be using it
-- Align teams around shared goals
-- Decide if the product / system will be loose or strict. 
+1. Figure out who will be using it
+
+2. Align teams around shared goals
+
+3. Decide if the product / system will be loose or strict. 
 
 > (LOOSE = There if you choose to adopt / follow. STRICT = System adoption is manadatory)
 
-- Decide if the development of the system will be distributed or centrally managed.
+4. Decide if the development of the system will be distributed or centrally managed.
 
 > (DISTRIBUTED = Many people be contributing - Better for overall adoption, but harder to manage. CENTRAL = Easier to manage, but system adoption is slower/more difficult).
 
