@@ -62,8 +62,9 @@ let LFCoolAppName.config = {
 ```
 
 ### Important Links
-[LF Production - Should we post things here?](https://3.basecamp.com/3487677/projects/9637308)
-[New #10 Checklist](https://3.basecamp.com/3487677/buckets/9427561/messages/1350327868)
-[Updates to #10](https://3.basecamp.com/3487677/buckets/9427561/messages/1504639018)
-[LF Pub Icons](https://3.basecamp.com/3487677/buckets/9637308/messages/1384234231)
-[LF Meta data](https://3.basecamp.com/3487677/buckets/9637308/messages/1462233508)
+
+[LF Production - Should we post things here?](https://3.basecamp.com/3487677/projects/9637308)<br>
+[New #10 Checklist](https://3.basecamp.com/3487677/buckets/9427561/messages/1350327868)<br>
+[Updates to #10](https://3.basecamp.com/3487677/buckets/9427561/messages/1504639018)<br>
+[LF Pub Icons](https://3.basecamp.com/3487677/buckets/9637308/messages/1384234231)<br>
+[LF Meta data](https://3.basecamp.com/3487677/buckets/9637308/messages/1462233508)<br>
