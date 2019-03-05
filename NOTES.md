@@ -1,4 +1,4 @@
-## Questions:
+## QUESTIONS:
 - [ ] What catchy name should we give this system / product?
 - [ ] What browsers to support (Think we can drop IE10)
 - [ ] Separate css files for pub specific colors?
@@ -17,20 +17,20 @@
 List of items for each team to try to accomplished (broken down by '*General*', '*Devs*', '*Designers*', '*Backlog*')
 
 
-### GENERAL
+### General
 - [ ] What is each pub's Primary color, Secondary color, Pub link Hover color
 - [ ] Container width (Does new #10 look kind of wide for desktop reading?)
 - [ ] For h1-h6, p font size (so that styles match let's consider current ja.com site for font-sizes, etc)
 
 
-### DEV TEAM
+### Dev Team
 - [ ] Research best css library to copy from
 - [ ] Look at GA to determine common screen sizes (so we can figure out breakpoints)
 - [ ] Look into what's obligatory on OPIUM's forms (e.g. remove field_wrapper, etc)
 - [ ] Set up w/ Parcel or Gulp if we are not using already? (add purgeCSS, autoprefix, cssnano, `npm run build` to `--public-url ./` `--no-minify`, etc)
 
 
-### DESIGN TEAM
+### Design Team
 - [ ] What are each pub's font-family(ies)
 - [ ] What are each pub's primary colors [Emma has posted most here](https://3.basecamp.com/3487677/buckets/9637308/messages/1384234231)
 - [ ] What are each pub's secondary colors
@@ -39,7 +39,7 @@ List of items for each team to try to accomplished (broken down by '*General*', 
 - [ ] What are LF's general primary/secondary text colors
 
 
-### BACKLOG ITEMS:
+## BACKLOG ITEMS:
 - [ ] < hr > styles (h-(1-4) (for height on HRs))
 - [ ] Checkboxes styles
 - [ ] Radios styles
@@ -60,6 +60,11 @@ let LFCoolAppName.config = {
 }
 </script>
 ```
+
+---
+
+
+### Questions Answered:
 
 ### Important Links
 
