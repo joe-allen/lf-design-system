@@ -1,5 +1,5 @@
 ## QUESTIONS:
-- [ ] What catchy name should we give this system / product?
+
 - [ ] What browsers to support (Think we can drop IE10)
 - [ ] Separate css files for pub specific colors?
 - [ ] Should we create a 'common' css file wh/ will include all the pub colors + more features (e.g. for more highly designed pages)?
@@ -10,6 +10,10 @@
 - [ ] Any update on the report / research Megan and her team is doing on LF's client base?
 - [ ] How are we going to test our updates and what metrics will determine a winner
 - [ ] Will all these items be the same across each pub? (Primary, secondary text color), (Container width), (h1-h6, p font size)
+
+---
+
+- [ ] What catchy name should we give this system / product? [Tulip, Ratio, _ ]
 
 
 ## TO DO:
